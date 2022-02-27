@@ -1,8 +1,7 @@
 // Copyright 2022 NNTU-CS
+#include <math.h> 
 #include <cstdint>
 #include "alg.h"
-#include <math.h> 
-
 
 bool checkPrime(uint64_t value) {
 // вставьте код функции
